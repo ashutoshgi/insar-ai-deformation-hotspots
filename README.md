@@ -1,4 +1,4 @@
-# insar_deformation_hotspots
+# insar-ai-deformation-hotspots
 
 # Deriving spatio-temporal deformation patterns over LA using InSAR and AI​
 
@@ -46,6 +46,8 @@ p04_finding_spatial_correlation_lengths.m: Finding spatial correlation lengths f
 p05_spatial_dispersion.m: Finding spatial dispersion of individual clusters generated from p02. Those with large dispersions would be removed.
 
 ## About the data files
+
+Example dataset can be downloaded here: https://data.lib.vt.edu/articles/software/Detecting_deformation_hotspots_from_InSAR_derived_deformation_maps/25402327
 
 elpx_ll.mat: Coordinates for elite pixels
 
